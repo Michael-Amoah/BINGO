@@ -9,7 +9,7 @@ So how do we make our own Simon game?
  
 ## Items
 First we will need the following items: 
-- Arduino Uno
+- [Arduino Uno](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_2_sspa?crid=1PL226LFF50IJ&keywords=arduino+uno&qid=1683939963&sprefix=arduino+uno%2Caps%2C110&sr=8-2-spons&psc=1&smid=AA57DDZKZUZDL&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaMFdUWDFZQ0ExV0kmZW5jcnlwdGVkSWQ9QTAzMDg1MjIyV1ZNV0RDSVlQVzU0JmVuY3J5cHRlZEFkSWQ9QTA5NDYzMzdOV0RGVklGUERMS1Emd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
 - 6x Push Buttons
 - 4x LED (Green, Red, Yellow, Blue)
 - Piezo Buzzer
