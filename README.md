@@ -26,7 +26,7 @@ This is a small circuit diagram of our project
 - [Link to Youtube Video](https://youtu.be/sWAvEqo8YO8)
 
 ## Credit
-You can also find the code and the project on [goodarduinocode.com]https://goodarduinocode.com/projects/simon
+You can also find the code and the project on [goodarduinocode.com](https://goodarduinocode.com/projects/simon)
 
 
 
