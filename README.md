@@ -7,3 +7,13 @@ Simon was released in 1978. The game was so popular that after 4 years of it’s
 
 So how do we make our own Simon game?
  
+## Items
+First we will need the following items: 
+- Arduino Uno
+- 6x Push Buttons
+- 4x LED (Green, Red, Yellow, Blue)
+- Piezo Buzzer
+
+
+
+
