@@ -15,15 +15,15 @@ First we will need the following items:
 - [4x Resistor (220Ω)](https://www.amazon.com/Resistor-Tolerance-Resistors-Limiting-Certificated/dp/B08QRFCMC9/ref=sr_1_2_sspa?keywords=220+ohm+resistor&qid=1683940317&sprefix=220+%2Caps%2C150&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMUtJSzdCT1VMUTFWJmVuY3J5cHRlZElkPUEwNDc1NjM0MUdZREpXRkZVWTNUOCZlbmNyeXB0ZWRBZElkPUEwNTM3MTQxMjZOWE1aRkNIMFgzVSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 - [Piezo Buzzer](https://www.amazon.com/Cylewet-Terminals-Electronic-Electromagnetic-Impedance/dp/B01NCOXB2Q/ref=sr_1_6?crid=290LNTAKL584&keywords=Piezo+Buzzer&qid=1683940347&sprefix=piezo+buzzer%2Caps%2C113&sr=8-6)
 
-## Demo
-- [Link to Youtube Video](https://youtu.be/sWAvEqo8YO8)
-
 ## Pin Assignments
 All pins are in excel sheet in the Simon Assemble folder. 
 
 This is a small circuit diagram of our project
 
 ![Simon Circuit Diagram ](img/diagram.png)
+
+## Demo
+- [Link to Youtube Video](https://youtu.be/sWAvEqo8YO8)
 
 
 
