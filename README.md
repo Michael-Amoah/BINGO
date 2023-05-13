@@ -22,7 +22,7 @@ First we will need the following items:
 All pins are in excel sheet in the Simon Assemble folder. 
 
 This is a small circuit diagram of our project
-![Sound Localizing Set up](img/Localzing_Schematic.jpg)
+![Sound Localizing Set up](img/diagram.png)
 
 
 
