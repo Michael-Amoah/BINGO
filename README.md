@@ -17,7 +17,6 @@ First we will need the following items:
 
 ## Demo
 - [Link to Youtube Video](https://youtu.be/sWAvEqo8YO8)
-- 
 
 ## Pin Assignments
 All pins are in excel sheet in the Simon Assemble folder. 
