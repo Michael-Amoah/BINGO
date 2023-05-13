@@ -16,7 +16,7 @@ First we will need the following items:
 - [Piezo Buzzer](https://www.amazon.com/Cylewet-Terminals-Electronic-Electromagnetic-Impedance/dp/B01NCOXB2Q/ref=sr_1_6?crid=290LNTAKL584&keywords=Piezo+Buzzer&qid=1683940347&sprefix=piezo+buzzer%2Caps%2C113&sr=8-6)
 
 ## Demo
-- [Link to Youtube Video]([https://www.youtube.com/shorts/TuTN1Xh6XoU](https://youtu.be/sWAvEqo8YO8))
+- [Link to Youtube Video]([https://www.youtube.com/shorts/TuTN1Xh6XoU]([https://youtu.be/sWAvEqo8YO8](https://youtu.be/sWAvEqo8YO8)))
 
 ## Pin Assignments
 All pins are in excel sheet in the Simon Assemble folder. 
